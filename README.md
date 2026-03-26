@@ -22,7 +22,7 @@ The Django and React full-stack application has been successfully built and veri
 
 Here is a recording showcasing the application's functionality and premium look:
 
-![App CRUD Demo Recording](file:///C:/Users/M.Rameez/.gemini/antigravity/brain/8dbf3fc9-c72d-4055-95a5-a53ba4c463fc/app_crud_demo_1774525689881.webp)
+![App CRUD Demo Recording](https://github.com/rameezuetian/Django-CRUD-APP/blob/main/frontend/app_crud_demo_1774525689881.webp)
 
 ## 🏗️ Architecture Summary
 
